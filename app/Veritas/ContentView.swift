@@ -8,7 +8,7 @@ struct ContentView: View {
             Text("Hello, Veritas!")
                 .font(.largeTitle)
                 .bold()
-            Text("Pill screener — coming soon")
+            Text("Pill screener: coming soon")
                 .foregroundStyle(.secondary)
         }
         .padding()
