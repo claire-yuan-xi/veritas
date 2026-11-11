@@ -3,3 +3,7 @@ DerivedData/
 xcuserdata/
 *.xcuserstate
 .DS_Store
+*.lck
+*-unsaved-export-*
+.history/
+*-backups/
