@@ -35,13 +35,13 @@ The parts are held together with heat-set inserts, to which Im printing in black
 ## PCB
 
 Using KiCad, the PCB ended up being about 50 x 40 mm. The XIAO ESP32-S3 plugs into two 7 pin headers so it can be swapped out whenever. The five LEDs sit in a column under the chamber so their light goes straight up the vial to the sensor. Each LED has its own current-limiting resistor to which the light sensor and the OLED connect with 4 pin headers. 
-![alt text](image-2.png)
+![alt text](image-3.png)
 There's also a spot for a small transistor and diode that could drive a stirring fan, which was left unpopulated for the purposes of Veritas as I found shaking the glass vial by hand works fine. 
 The gerbers are in pcb/veritas/gerbers.zip and can be ordered from JLCPCB.
 ![alt text](image-4.png)
 
 ## Schematic
-![alt text](image-3.png)
+![alt text](image-2.png)
 
 ## Firmware
 The firmware is in firmware/veritas/veritas.ino and was written in Arduino's desktop IDE. The code essentially covers the commands for the OLED screen display and the Bluetooth connection to the mobile app. 
