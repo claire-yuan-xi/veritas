@@ -11,6 +11,8 @@ The WHO estimates that 1 in 10 medical products in low and middle income countri
 
 Owls are known for being wise, which inspired the design of Veritas. Moreover, truth in Latin (and partially Yale's latin motto) inspired the name "Veritas." 
 
+Also, special thanks to my marketing teacher and the friends who helped in the design of Veritas' flyer! Also my access to the school's Adobe Premiere Suite <3
+
 ## Features
 
 + 5 Colors of light shined: red, green, blue, 940 nm infrared, and 400 nm UV
